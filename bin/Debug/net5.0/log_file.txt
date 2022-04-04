@@ -1,0 +1,19 @@
+2022-03-28 12:45:46.1314|INFO|BlogsConsole.Program|Program started
+2022-03-28 12:45:46.2402|INFO|BlogsConsole.Program|Program ended
+2022-03-28 13:11:17.8978|INFO|BlogsConsole.Program|Program started
+2022-03-28 13:11:31.0617|INFO|BlogsConsole.Program|Blog added - "Tortoise"
+2022-03-28 13:11:31.7747|INFO|BlogsConsole.Program|Program ended
+2022-03-28 13:12:43.8075|INFO|BlogsConsole.Program|Program started
+2022-03-28 13:13:00.0508|INFO|BlogsConsole.Program|Blog added - "Hare"
+2022-03-28 13:13:01.0163|INFO|BlogsConsole.Program|Program ended
+2022-03-28 13:17:37.8634|INFO|BlogsConsole.Program|Program started
+2022-03-28 13:17:51.7288|ERROR|BlogsConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2022-03-28 13:17:51.7710|INFO|BlogsConsole.Program|Program ended
+2022-03-28 13:19:45.1625|INFO|BlogsConsole.Program|Program started
+2022-03-28 13:19:54.7361|INFO|BlogsConsole.Program|Blog added - "Mouse"
+2022-03-28 13:19:55.3690|INFO|BlogsConsole.Program|Program ended
+2022-04-03 23:39:30.3127|INFO|BlogsConsole.Program|Program started
+2022-04-03 23:39:49.8086|INFO|BlogsConsole.Program|Blog added - "Dragon"
+2022-04-03 23:40:07.2817|INFO|BlogsConsole.Program|Program ended
+2022-04-03 23:43:12.1179|INFO|BlogsConsole.Program|Program started
+2022-04-03 23:43:21.9782|INFO|BlogsConsole.Program|Program ended
